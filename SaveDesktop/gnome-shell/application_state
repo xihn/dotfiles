@@ -1,0 +1,12 @@
+<?xml version="1.0"?>
+<application-state>
+  <context id="">
+    <application id="thunderbird.desktop" score="0.0009765625" last-seen="1713798559"/>
+    <application id="org.gnome.Nautilus.desktop" score="0.005859375" last-seen="1714005922"/>
+    <application id="code_code.desktop" score="0.740234375" last-seen="1713847949"/>
+    <application id="org.gnome.Software.desktop" score="0.25" last-seen="1714016807"/>
+    <application id="firefox_firefox.desktop" score="29.9716796875" last-seen="1714016934"/>
+    <application id="com.alacritty.Alacritty.desktop" score="77294580.416015625" last-seen="1714016935"/>
+    <application id="update-manager.desktop" score="0.359375" last-seen="1713795672"/>
+  </context>
+</application-state>
